@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:title="@string/main_prefrence_page"
+        android:key="@string/main_prefrence_page"
+        android:fragment="scu.dynamiclayout.FLMainAcivity$SettingsFragment"/>
+    <header
+        android:title="@string/category_prefrence"
+        android:key="@string/category_prefrence"
+        android:fragment="scu.dynamiclayout.FLMainAcivity$SettingsFragment">
+    </header>
+</preference-headers>

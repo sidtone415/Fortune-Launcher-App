@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DynamicLayout">
+        <attr name="layout_width" format="dimension"></attr>
+        <attr name="laout_height" format="dimension"></attr>
+    </declare-styleable>
+</resources>

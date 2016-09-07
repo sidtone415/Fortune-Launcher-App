@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="@string/main_prefrence_page"
+        android:title="@string/main_prefrence_page">
+        <ListPreference>
+            <PreferenceScreen
+                android:title="@string/layout_prefrence"
+                android:key="@string/layout_prefrence">
+            </PreferenceScreen>
+            <PreferenceScreen
+                android:title="@string/category_prefrence"
+                android:key="@string/category_prefrence">
+            </PreferenceScreen>
+            <PreferenceScreen
+                android:title="@string/drawer_prefrence"
+                android:key="@string/drawer_prefrence">
+            </PreferenceScreen>
+        </ListPreference>
+        <SwitchPreference
+            android:title="@string/feedback_prefrence"
+            android:key="@string/feedback_prefrence"
+            android:enabled="true">
+        </SwitchPreference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

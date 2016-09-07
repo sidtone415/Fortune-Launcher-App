@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dynamic Layout</string>
+    <string name="main_prefrence_page">Fortune Launcher Settings</string>
+    <string name="layout_prefrence">Layouts</string>
+    <string name="category_prefrence">Categories</string>
+    <string name="drawer_prefrence">Drawers</string>
+    <string name="feedback_prefrence">Feedback</string>
+    <string name="about_prefrence">About</string>
+    <string name="help_prefrence">Help</string>
+</resources>
